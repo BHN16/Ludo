@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/jugador.cpp.o CMakeFiles/untitled.dir/ficha.cpp.o CMakeFiles/untitled.dir/juego.cpp.o CMakeFiles/untitled.dir/dado.cpp.o CMakeFiles/untitled.dir/casilla.cpp.o CMakeFiles/untitled.dir/tablero.cpp.o  -o untitled 
