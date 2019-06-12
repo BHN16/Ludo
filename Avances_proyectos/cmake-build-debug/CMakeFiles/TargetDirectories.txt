@@ -1,0 +1,3 @@
+/home/bhn16/Escritorio/Avances_proyectos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bhn16/Escritorio/Avances_proyectos/cmake-build-debug/CMakeFiles/Avances_proyectos.dir
+/home/bhn16/Escritorio/Avances_proyectos/cmake-build-debug/CMakeFiles/edit_cache.dir
